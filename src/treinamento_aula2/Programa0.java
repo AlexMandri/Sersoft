@@ -22,6 +22,7 @@ public class Programa0 {
 		else
 			System.out.println("Ângulo inválido");
 
+		sc.close();
 	}
 
 }

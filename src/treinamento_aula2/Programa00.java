@@ -20,7 +20,8 @@ public class Programa00 {
 			System.out.println("Quarto quadrante");
 		else
 			System.out.println("Ângulo inválido");
-
+		
+		sc.close();
 	}
 
 }
